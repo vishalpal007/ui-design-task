@@ -55,11 +55,11 @@ const Card = () => {
                                     <h1 className="text-2xl mb-2 font-semibold">9.8</h1>
                                     <p className="text-sm my-2">Exceptional</p>
                                     <div className="text-orange-400 flex justify-center">
-                                        <span><IoMdStar size={10} /></span>
-                                        <span><IoMdStar size={10} /></span>
-                                        <span><IoMdStar size={10} /></span>
-                                        <span><IoMdStar size={10} /></span>
-                                        <span><IoMdStar size={10} /></span>
+                                        <span><IoMdStar size={15} /></span>
+                                        <span><IoMdStar size={15} /></span>
+                                        <span><IoMdStar size={15} /></span>
+                                        <span><IoMdStar size={15} /></span>
+                                        <span><IoMdStar size={15} /></span>
                                     </div>
                                 </div>
                                 <div className='relative lg:top-10 '>
@@ -103,11 +103,11 @@ const Card = () => {
                                     <h1 className="text-2xl mb-2 font-semibold">9.5</h1>
                                     <p className="text-sm my-2">Excellent</p>
                                     <div className="text-orange-400 flex justify-center">
-                                        <span><IoMdStar size={10} /></span>
-                                        <span><IoMdStar size={10} /></span>
-                                        <span><IoMdStar size={10} /></span>
-                                        <span><IoMdStar size={10} /></span>
-                                        <span><IoMdStarHalf size={10} /></span>
+                                        <span><IoMdStar size={15} /></span>
+                                        <span><IoMdStar size={15} /></span>
+                                        <span><IoMdStar size={15} /></span>
+                                        <span><IoMdStar size={15} /></span>
+                                        <span><IoMdStarHalf size={15} /></span>
                                     </div>
                                 </div>
                                 <div className='relative lg:top-10 '>
@@ -148,11 +148,11 @@ const Card = () => {
                                     <h1 className="text-2xl mb-2 font-semibold">9.3</h1>
                                     <p className="text-sm my-2">Exceptional</p>
                                     <div className="text-orange-400 flex justify-center">
-                                        <span><IoMdStar size={10} /></span>
-                                        <span><IoMdStar size={10} /></span>
-                                        <span><IoMdStar size={10} /></span>
-                                        <span><IoMdStar size={10} /></span>
-                                        <span><IoMdStar size={10} /></span>
+                                        <span><IoMdStar size={15} /></span>
+                                        <span><IoMdStar size={15} /></span>
+                                        <span><IoMdStar size={15} /></span>
+                                        <span><IoMdStar size={15} /></span>
+                                        <span><IoMdStar size={15} /></span>
                                     </div>
                                 </div>
                                 <div className='relative lg:top-10 '>
@@ -199,15 +199,15 @@ const Card = () => {
                                         <h1>Why we love it</h1>
                                         <div className='py-2'>
                                             <h1 className='flex items-center gap-2 my-3 '>
-                                                <h1 className='bg-sky-200 p-1 rounded-full text-blue-950'><FaCheck size={10} /></h1>
+                                                <h1 className='bg-sky-200 p-1 rounded-full text-blue-950'><FaCheck size={15} /></h1>
                                                 Documentation
                                             </h1>
                                             <h1 className='flex items-center gap-2 my-3 '>
-                                                <h1 className='bg-sky-200 p-1 rounded-full text-blue-950'><FaCheck size={10} /></h1>
+                                                <h1 className='bg-sky-200 p-1 rounded-full text-blue-950'><FaCheck size={15} /></h1>
                                                 Easy Use
                                             </h1>
                                             <h1 className='flex items-center gap-2 my-3 '>
-                                                <h1 className='bg-sky-200 p-1 rounded-full text-blue-950'><FaCheck size={10} /></h1>
+                                                <h1 className='bg-sky-200 p-1 rounded-full text-blue-950'><FaCheck size={15} /></h1>
                                                 Out of box
                                             </h1>
                                             <h1 className='text-blue-500 font-semibold mt-8'>Show more
@@ -222,11 +222,11 @@ const Card = () => {
                                     <h1 className="text-2xl mb-2 font-semibold">9.1</h1>
                                     <p className="text-sm my-2">Very Good</p>
                                     <div className="text-orange-400 flex justify-center">
-                                        <span><IoMdStar size={10} /></span>
-                                        <span><IoMdStar size={10} /></span>
-                                        <span><IoMdStar size={10} /></span>
-                                        <span><IoMdStar size={10} /></span>
-                                        <span><IoMdStarOutline className='outline-orange-400' size={10} /></span>
+                                        <span><IoMdStar size={15} /></span>
+                                        <span><IoMdStar size={15} /></span>
+                                        <span><IoMdStar size={15} /></span>
+                                        <span><IoMdStar size={15} /></span>
+                                        <span><IoMdStarOutline className='outline-orange-400' size={15} /></span>
                                     </div>
                                 </div>
                                 <div className='relative lg:top-10 '>

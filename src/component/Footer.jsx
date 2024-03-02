@@ -5,8 +5,8 @@ const Footer = () => {
         <footer className="bg-gray-900 text-gray-200 p-20">
             <div className="flex flex-col lg:flex-row gap-12 justify-around">
                 <div>
-                    <h5 className=" text-lg mb-2">CATEGORIES</h5>
-                    <ul className='text-gray-400 space-y-2'>
+                    <h5 className=" text-lg font-semibold mb-2">CATEGORIES</h5>
+                    <ul className='text-gray-400 space-y-2 font-semibold'>
                         <li>Web Builder</li>
                         <li>Hosting</li>
                         <li>Data Center</li>
@@ -14,8 +14,8 @@ const Footer = () => {
                     </ul>
                 </div>
                 <div>
-                    <h5 className="text-lg mb-2">CONTACT</h5>
-                    <ul className='text-gray-400 space-y-2'>
+                    <h5 className="text-lg font-semibold mb-2">CONTACT</h5>
+                    <ul className='text-gray-400 space-y-2 font-semibold'>
                         <li>Contact</li>
                         <li>Privacy Policy</li>
                         <li>Terms Of Service</li>

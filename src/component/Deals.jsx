@@ -58,7 +58,7 @@ const DealCard = ({ deal }) => (
 );
 
 const Deals = () => (
-    <div className="p-8">
+    <div className="px-4 lg:px-24 py-8">
         <h2 className="text-2xl font-bold mb-6">Related deals you might like</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             {deals.map(deal => (
